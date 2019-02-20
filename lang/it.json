@@ -1,0 +1,5 @@
+{
+  "getProductFileName": "Inserire il nome del file contenente i prodotti: ",
+  "getPeopleFileName": "Inserire il nome del file contenente le persone: ",
+  "finalResults": "%d - mancano %d di spedizione."
+}

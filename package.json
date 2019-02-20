@@ -1,0 +1,17 @@
+{
+  "name": "price-divider",
+  "version": "1.0.0",
+  "description": "A simple way to calculate how much everyone has to pay when doing orders online.",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "run": "node index.js"
+  },
+  "author": "“Zekromaster” <“personal@zekromaster.net”> (“https://zekromaster.net”)",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "@types/node": "^11.9.4",
+    "@types/readline-sync": "^1.4.3",
+    "readline-sync": "^1.4.9"
+  }
+}
