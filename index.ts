@@ -132,7 +132,7 @@ class Order {
   get shipfreePrice(): number {
     var sum = 0;
     for (let person of this.people) {
-      sum += this.getPersonalPrice(person.name);
+      sum += person.price;
     }
     return sum;
   }
