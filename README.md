@@ -1,4 +1,6 @@
 # Price Divider
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FZekromaster%2FPriceDivider.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FZekromaster%2FPriceDivider?ref=badge_shield)
+
 
 This program uses the following format for the file containing the list of products:
 ```
@@ -48,3 +50,7 @@ And this for the file containing the list of people:
   "shipping": /* The shipping fee */
 }
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FZekromaster%2FPriceDivider.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FZekromaster%2FPriceDivider?ref=badge_large)
